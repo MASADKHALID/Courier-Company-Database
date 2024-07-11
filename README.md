@@ -1,6 +1,3 @@
-Certainly! Here's a template for a `README.md` file that you can use for your courier company database project on GitHub:
-
----
 
 # Courier Company Database Project
 
@@ -8,6 +5,7 @@ This project is a database schema for a courier company, designed to manage vari
 
 ##ER Diagram
 Figma ==> https://www.figma.com/board/8loDJeXv56TMpKKtDCDjBT/ER_DIAGRAM?node-id=0-1&t=PHrXARwnLSX9PvUw-1
+
 ![erdiagram](https://github.com/user-attachments/assets/92d83a08-4cb8-45ea-bbff-cc4348691244)
 
 
@@ -35,8 +33,9 @@ The database includes the following tables:
       
 7. Payments
    - Description: Handles payment details related to shipments and services provided by the courier company.
+**
+##System Diagram**
 
-##System Diagram
 ![systemDiagram](https://github.com/user-attachments/assets/3cb4eeff-4874-4789-8521-fb8b31c96870)
 
 
