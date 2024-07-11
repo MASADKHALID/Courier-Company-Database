@@ -40,7 +40,7 @@ The database includes the following tables:
 ![systemDiagram](https://github.com/user-attachments/assets/3cb4eeff-4874-4789-8521-fb8b31c96870)
 
 
-##Steps:
+## Steps:
 1. Schema Design
    - Review the schema to understand the structure and relationships between different tables.
    
