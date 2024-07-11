@@ -13,40 +13,40 @@ Figma ==> https://www.figma.com/board/8loDJeXv56TMpKKtDCDjBT/ER_DIAGRAM?node-id=
 
 The database includes the following tables:
 
-1. Shipments
+1. Shipments:
    - Description: Stores information about shipments, including shipment ID, sender, receiver, status, etc.
    
-2. Customers
+2. Customers:
    - Description: Manages customer details such as customer ID, name, address, contact information, etc.
    
-3. Employees
+3. Employees:
    - Description: Tracks employee information such as employee ID, name, role, contact details, etc.
    
-4. Packages
+4. Packages:
    - Description: Stores details about packages being shipped, including package ID, dimensions, weight, content, etc.
    
-5. Tracking
+5. Tracking:
    - Description: Tracks the status and location of shipments in real-time, updating as shipments move through various stages.
    
-6. Locations
+6. Locations:
    - Description: Stores information about different locations served by the courier company, including depot locations, hubs, etc.
       
-7. Payments
+7. Payments:
    - Description: Handles payment details related to shipments and services provided by the courier company.
-**
-##System Diagram**
+
+##System Diagram:
 
 ![systemDiagram](https://github.com/user-attachments/assets/3cb4eeff-4874-4789-8521-fb8b31c96870)
 
 
-## Usage
+##Steps:
 1. Schema Design
    - Review the schema to understand the structure and relationships between different tables.
    
-2. Populating Data
+2. Populating Data:
    - Insert sample data into the tables to simulate real-world scenarios and test queries.
 
-## Contributors
+## Contributors:
 
 - Muhammad Asad Khalid((https://github.com/MASADKHALID)
 - Muhammad Yahya Khan(https://github.com/Muhammad-Yahya-Khan/)
