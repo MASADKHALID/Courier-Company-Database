@@ -34,7 +34,7 @@ The database includes the following tables:
 7. Payments:
    - Description: Handles payment details related to shipments and services provided by the courier company.
 
-##System Diagram:
+## System Diagram:
 
 
 ![systemDiagram](https://github.com/user-attachments/assets/3cb4eeff-4874-4789-8521-fb8b31c96870)
