@@ -3,7 +3,7 @@
 
 This project is a database schema for a courier company, designed to manage various aspects of the company's operations, including shipments, customers, employees, and more.
 
-##ER Diagram
+## ER Diagram
 Figma ==> https://www.figma.com/board/8loDJeXv56TMpKKtDCDjBT/ER_DIAGRAM?node-id=0-1&t=PHrXARwnLSX9PvUw-1
 
 ![erdiagram](https://github.com/user-attachments/assets/92d83a08-4cb8-45ea-bbff-cc4348691244)
