@@ -46,6 +46,12 @@ The database includes the following tables:
    
 2. Populating Data:
    - Insert sample data into the tables to simulate real-world scenarios and test queries.
+     
+3. Report generate:
+   - using power bi analyize data and generate usefull info like marketing and fanicial data
+     
+![graph](https://github.com/user-attachments/assets/d9837b78-4fd9-4d44-b0cb-79b50aee14e1)
+
 
 ## Contributors:
 
